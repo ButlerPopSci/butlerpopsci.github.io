@@ -1,6 +1,5 @@
 
-# jeannywwDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# Work in progress and test
 Visit **[jeannyww.github.io/draft_website](https://jeannyww.github.io/draft_website)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
