@@ -26,5 +26,5 @@ EXPOSE 4000
 EXPOSE 35729
 
 # run jekyll and cite process
-COPY .docker/entrypoint.sh /var
+COPY ./.docker/entrypoint.sh /var
 CMD [ "/var/entrypoint.sh" ]
