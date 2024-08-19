@@ -9,8 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: ebonee@unc.edu
-  # orcid: 0000-0002-4638-1190
-  # google-scholar: ts9OA5gAAAAJ
+  orcid: 0000-0002-4638-1190
+  google-scholar: ts9OA5gAAAAJ
   github: https://github.com/ButlerPopSci/
 
 
