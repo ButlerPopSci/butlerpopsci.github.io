@@ -1,18 +1,24 @@
 ---
+title: Home
 ---
 
-# jeannywwDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+{% include section.html
+  dark=true
+  size=wide%}
+{:.center}
+Butler Population Sciences is a team of researchers at the Gillings School of Global Public Health,  University of North Carolina, Chapel Hill.
 
+{% include section.html
+ background= "images/Textures_Tree2-1.png"
+  dark=true
+  size=wide%}
 
+{% include section.html
+  dark=false
+  size=full%}
 
-{% include section.html %}
-
-## Highlights
-
+<!-- Block 1 -->
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="research"
@@ -32,10 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+<!-- Block 2 -->
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="projects"
@@ -57,9 +61,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+<!-- Block 3 -->
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -79,3 +82,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+<!-- End section  -->
+
+{% include section.html
+ background= "images/Textures_Tree2-1.png"
+  dark=true
+  size=wide%}

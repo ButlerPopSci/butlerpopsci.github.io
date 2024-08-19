@@ -1,19 +1,18 @@
 # site properties and page defaults
-title: Testing Testing Testing cool thing
-subtitle: Testing testing subtitle
-description: Testing testing description 
-header: images/background.jpg
-footer: images/background.jpg
+title: Butler Population Sciences
+subtitle:
+description:
+header: images/Textures_Tree1.png
+footer: images/Textures_Tree1.png
 proofer: false
 
 # site social media and other links
 links:
-  email: test@email.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: jeannywwDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: jeannywwDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: jeannywwDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: ebonee@unc.edu
+  # orcid: 0000-0002-4638-1190
+  # google-scholar: ts9OA5gAAAAJ
+  github: https://github.com/ButlerPopSci/
+
 
 ### jekyll settings
 

@@ -7,18 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{:.center}
+The Butler Population Sciences research group studies underlying causes of breast and prostate cancers, with focus on the disparities in cancer  incidence and mortality among people of African ancestry.
+{% include section.html %}
+
+## Featured
+
+{% include citation.html lookup="pubmed:32433602" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41416-022-02019-7" style="rich" %}
+{% include citation.html lookup="pubmed:35181273" style="rich" %}
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
+## All Publications
 
 {% include search-box.html %}
 
