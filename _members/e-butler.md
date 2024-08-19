@@ -20,4 +20,4 @@ links:
 
 Dr. Butler is a cancer epidemiologist and the principal investigator of the Butler Population Sciences research group. She has conducted foundational research examining the incidence of fatal prostate cancer phenotypes in the United States and United Kingdom and is involved in global consortia seeking to understand the etiology of aggressive forms of the disease. In her role as director of the North Carolina-Louisiana Prostate Cancer Project she examines risk factors that may explain the differences observed in prostate cancer risk, severity and progression between Black and White men in the southern United States. Dr. Butler has a growing body of research that aims to explore disparities in incidence and mortality for breast and prostate cancers among people of African ancestry.
 
-Dr. Butler's [Curriculum vitae](/Butler-Ebonee-N.pdf)
+Dr. Butler's [Curriculum vitae](/draft_website/Butler-Ebonee-N.pdf)
