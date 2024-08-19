@@ -1,6 +1,6 @@
 ---
 name: Lubna Hossain, MPH
-image: images/photo.jpeg
+image: images/photo.jpg
 role:
 alumni: true
 group:
