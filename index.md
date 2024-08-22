@@ -32,7 +32,7 @@ Butler Population Sciences is a team of researchers at the Gillings School of Gl
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
