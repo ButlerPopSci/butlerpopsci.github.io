@@ -1,1 +1,1 @@
-Sitemap: https://butlerpopsci.github.io/lab/sitemap.xml
+Sitemap: https://butlerpopsci.github.io/sitemap.xml
