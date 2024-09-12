@@ -1,0 +1,1043 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: pubmed:39013134
+  title: Differences in 21-Gene and PAM50 Recurrence Scores in Younger and Black Women
+    With Breast Cancer.
+  authors:
+  - Sarah C Van Alsten
+  - Sanah N Vohra
+  - Joannie M Ivory
+  - Alina M Hamilton
+  - Xiaohua Gao
+  - Erin L Kirk
+  - "Ebone\xE9 N Butler"
+  - H Shelton Earp
+  - Katherine E Reeder-Hayes
+  - Katherine A Hoadley
+  - Lisa A Carey
+  - Melissa A Troester
+  publisher: JCO precision oncology
+  date: '2024-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39013134
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38758522
+  title: Cigarette smoking and prostate cancer aggressiveness among African and European
+    American men.
+  authors:
+  - Edgar T Ellis
+  - Brian J Fairman
+  - Shelbie D Stahr
+  - Jeannette T Bensen
+  - James L Mohler
+  - Lixin Song
+  - "Ebone\xE9 N Butler"
+  - L Joseph Su
+  - Ping-Ching Hsu
+  publisher: 'Cancer causes & control : CCC'
+  date: '2024-05-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38758522
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38741014
+  title: Genome-wide association analyses of breast cancer in women of African ancestry
+    identify new susceptibility loci and improve risk prediction.
+  authors:
+  - Guochong Jia
+  - Jie Ping
+  - Xingyi Guo
+  - Yaohua Yang
+  - Ran Tao
+  - Bingshan Li
+  - Stefan Ambs
+  - Mollie E Barnard
+  - Yu Chen
+  - Montserrat Garcia-Closas
+  - Jian Gu
+  - Jennifer J Hu
+  - Dezheng Huo
+  - Esther M John
+  - Christopher I Li
+  - James L Li
+  - Katherine L Nathanson
+  - Barbara Nemesure
+  - Olufunmilayo I Olopade
+  - Tuya Pal
+  - Michael F Press
+  - Maureen Sanderson
+  - Dale P Sandler
+  - Xiao-Ou Shu
+  - Melissa A Troester
+  - Song Yao
+  - Prisca O Adejumo
+  - Thomas Ahearn
+  - Abenaa M Brewster
+  - Anselm J M Hennis
+  - Timothy Makumbi
+  - Paul Ndom
+  - Katie M O'Brien
+  - Andrew F Olshan
+  - Mojisola M Oluwasanu
+  - Sonya Reid
+  - Ebonee N Butler
+  - Maosheng Huang
+  - Atara Ntekim
+  - Huijun Qian
+  - Haoyu Zhang
+  - Christine B Ambrosone
+  - Qiuyin Cai
+  - Jirong Long
+  - Julie R Palmer
+  - Christopher A Haiman
+  - Wei Zheng
+  publisher: Nature genetics
+  date: '2024-05-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38741014
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38697998
+  title: Using genome and transcriptome data from African-ancestry female participants
+    to identify putative breast cancer susceptibility genes.
+  authors:
+  - Jie Ping
+  - Guochong Jia
+  - Qiuyin Cai
+  - Xingyi Guo
+  - Ran Tao
+  - Christine Ambrosone
+  - Dezheng Huo
+  - Stefan Ambs
+  - Mollie E Barnard
+  - Yu Chen
+  - Montserrat Garcia-Closas
+  - Jian Gu
+  - Jennifer J Hu
+  - Esther M John
+  - Christopher I Li
+  - Katherine Nathanson
+  - Barbara Nemesure
+  - Olufunmilayo I Olopade
+  - Tuya Pal
+  - Michael F Press
+  - Maureen Sanderson
+  - Dale P Sandler
+  - Toshio Yoshimatsu
+  - Prisca O Adejumo
+  - Thomas Ahearn
+  - Abenaa M Brewster
+  - Anselm J M Hennis
+  - Timothy Makumbi
+  - Paul Ndom
+  - Katie M O'Brien
+  - Andrew F Olshan
+  - Mojisola M Oluwasanu
+  - Sonya Reid
+  - Song Yao
+  - Ebonee N Butler
+  - Maosheng Huang
+  - Atara Ntekim
+  - Bingshan Li
+  - Melissa A Troester
+  - Julie R Palmer
+  - Christopher A Haiman
+  - Jirong Long
+  - Wei Zheng
+  publisher: Nature communications
+  date: '2024-05-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38697998
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38217760
+  title: 'Understanding mechanisms of racial disparities in breast cancer: an assessment
+    of screening and regular care in the Carolina Breast Cancer Study.'
+  authors:
+  - Matthew R Dunn
+  - Eman M Metwally
+  - Sanah Vohra
+  - Terry Hyslop
+  - Louise M Henderson
+  - Katherine Reeder-Hayes
+  - Caroline A Thompson
+  - Jennifer Elston Lafata
+  - Melissa A Troester
+  - "Ebone\xE9 N Butler"
+  publisher: 'Cancer causes & control : CCC'
+  date: '2024-01-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38217760
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38017150
+  title: Linking African ancestral substructure to prostate cancer health disparities.
+  authors:
+  - Kazzem Gheybi
+  - Naledi Mmekwa
+  - Maphuti Tebogo Lebelo
+  - Sean M Patrick
+  - Raymond Campbell
+  - Mukudeni Nenzhelele
+  - Pamela X Y Soh
+  - Muvhulawa Obida
+  - Massimo Loda
+  - Joyce Shirindi
+  - "Ebone\xE9 N Butler"
+  - Shingai B A Mutambirwa
+  - M S Riana Bornman
+  - Vanessa M Hayes
+  publisher: Scientific reports
+  date: '2023-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38017150
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37945903
+  title: Characterizing prostate cancer risk through multi-ancestry genome-wide discovery
+    of 187 novel risk variants.
+  authors:
+  - Anqi Wang
+  - Jiayi Shen
+  - Alex A Rodriguez
+  - Edward J Saunders
+  - Fei Chen
+  - Rohini Janivara
+  - Burcu F Darst
+  - Xin Sheng
+  - Yili Xu
+  - Alisha J Chou
+  - Sara Benlloch
+  - Tokhir Dadaev
+  - Mark N Brook
+  - Anna Plym
+  - Ali Sahimi
+  - Thomas J Hoffman
+  - Atushi Takahashi
+  - Koichi Matsuda
+  - Yukihide Momozawa
+  - Masashi Fujita
+  - Triin Laisk
+  - "J\xE9ssica Figuer\xEAdo"
+  - Kenneth Muir
+  - Shuji Ito
+  - Xiaoxi Liu
+  - Yuji Uchio
+  - Michiaki Kubo
+  - Yoichiro Kamatani
+  - Artitaya Lophatananon
+  - Peggy Wan
+  - Caroline Andrews
+  - Adriana Lori
+  - Parichoy P Choudhury
+  - Johanna Schleutker
+  - Teuvo L J Tammela
+  - Csilla Sipeky
+  - Anssi Auvinen
+  - Graham G Giles
+  - Melissa C Southey
+  - Robert J MacInnis
+  - Cezary Cybulski
+  - Dominika Wokolorczyk
+  - Jan Lubinski
+  - Christopher T Rentsch
+  - Kelly Cho
+  - Benjamin H Mcmahon
+  - David E Neal
+  - Jenny L Donovan
+  - Freddie C Hamdy
+  - Richard M Martin
+  - Borge G Nordestgaard
+  - Sune F Nielsen
+  - Maren Weischer
+  - Stig E Bojesen
+  - "Andreas R\xF8der"
+  - Hein V Stroomberg
+  - Jyotsna Batra
+  - Suzanne Chambers
+  - Lisa Horvath
+  - Judith A Clements
+  - Wayne Tilly
+  - Gail P Risbridger
+  - Henrik Gronberg
+  - Markus Aly
+  - Robert Szulkin
+  - Martin Eklund
+  - Tobias Nordstrom
+  - Nora Pashayan
+  - Alison M Dunning
+  - Maya Ghoussaini
+  - Ruth C Travis
+  - Tim J Key
+  - Elio Riboli
+  - Jong Y Park
+  - Thomas A Sellers
+  - Hui-Yi Lin
+  - Demetrius Albanes
+  - Stephanie Weinstein
+  - Michael B Cook
+  - Lorelei A Mucci
+  - Edward Giovannucci
+  - Sara Lindstrom
+  - Peter Kraft
+  - David J Hunter
+  - Kathryn L Penney
+  - Constance Turman
+  - Catherine M Tangen
+  - Phyllis J Goodman
+  - Ian M Thompson
+  - Robert J Hamilton
+  - Neil E Fleshner
+  - Antonio Finelli
+  - "Marie-\xC9lise Parent"
+  - Janet L Stanford
+  - Elaine A Ostrander
+  - Stella Koutros
+  - Laura E Beane Freeman
+  - Meir Stampfer
+  - Alicja Wolk
+  - "Niclas H\xE5kansson"
+  - Gerald L Andriole
+  - Robert N Hoover
+  - Mitchell J Machiela
+  - "Karina Dalsgaard S\xF8rensen"
+  - Michael Borre
+  - William J Blot
+  - Wei Zheng
+  - Edward D Yeboah
+  - James E Mensah
+  - Yong-Jie Lu
+  - Hong-Wei Zhang
+  - Ninghan Feng
+  - Xueying Mao
+  - Yudong Wu
+  - Shan-Chao Zhao
+  - Zan Sun
+  - Stephen N Thibodeau
+  - Shannon K McDonnell
+  - Daniel J Schaid
+  - Catharine M L West
+  - Gill Barnett
+  - Christiane Maier
+  - Thomas Schnoeller
+  - Manuel Luedeke
+  - Adam S Kibel
+  - Bettina F Drake
+  - Olivier Cussenot
+  - Geraldine Cancel-Tassin
+  - Florence Menegaux
+  - "Th\xE9r\xE8se Truong"
+  - Yves Akoli Koudou
+  - Esther M John
+  - Eli Marie Grindedal
+  - Lovise Maehle
+  - Kay-Tee Khaw
+  - Sue A Ingles
+  - Mariana C Stern
+  - Ana Vega
+  - "Antonio G\xF3mez-Caama\xF1o"
+  - Laura Fachal
+  - Barry S Rosenstein
+  - Sarah L Kerns
+  - Harry Ostrer
+  - Manuel R Teixeira
+  - Paula Paulo
+  - "Andreia Brand\xE3o"
+  - Stephen Watya
+  - Alexander Lubwama
+  - Jeannette T Bensen
+  - Ebonee N Butler
+  - James L Mohler
+  - Jack A Taylor
+  - Manolis Kogevinas
+  - Trinidad Dierssen-Sotos
+  - "Gemma Casta\xF1o-Vinyals"
+  - Lisa Cannon-Albright
+  - Craig C Teerlink
+  - Chad D Huff
+  - Patrick Pilie
+  - Yao Yu
+  - Ryan J Bohlender
+  - Jian Gu
+  - Sara S Strom
+  - Luc Multigner
+  - Pascal Blanchet
+  - Laurent Brureau
+  - Radka Kaneva
+  - Chavdar Slavov
+  - Vanio Mitev
+  - Robin J Leach
+  - Hermann Brenner
+  - Xuechen Chen
+  - Bernd Holleczek
+  - "Ben Sch\xF6ttker"
+  - Eric A Klein
+  - Ann W Hsing
+  - Rick A Kittles
+  - Adam B Murphy
+  - Christopher J Logothetis
+  - Jeri Kim
+  - Susan L Neuhausen
+  - Linda Steele
+  - Yuan Chun Ding
+  - William B Isaacs
+  - Barbara Nemesure
+  - Anselm J M Hennis
+  - John Carpten
+  - Hardev Pandha
+  - Agnieszka Michael
+  - Kim De Ruyck
+  - Gert De Meerleer
+  - Piet Ost
+  - Jianfeng Xu
+  - Azad Razack
+  - Jasmine Lim
+  - Soo-Hwang Teo
+  - Lisa F Newcomb
+  - Daniel W Lin
+  - Jay H Fowke
+  - Christine M Neslund-Dudas
+  - Benjamin A Rybicki
+  - Marija Gamulin
+  - Davor Lessel
+  - Tomislav Kulis
+  - Nawaid Usmani
+  - Aswin Abraham
+  - Sandeep Singhal
+  - Matthew Parliament
+  - Frank Claessens
+  - Steven Joniau
+  - Thomas Van den Broeck
+  - Manuela Gago-Dominguez
+  - Jose Esteban Castelao
+  - Maria Elena Martinez
+  - Samantha Larkin
+  - Paul A Townsend
+  - Claire Aukim-Hastie
+  - William S Bush
+  - Melinda C Aldrich
+  - Dana C Crawford
+  - Shiv Srivastava
+  - Jennifer Cullen
+  - Gyorgy Petrovics
+  - Graham Casey
+  - Ying Wang
+  - Yao Tettey
+  - Joseph Lachance
+  - Wei Tang
+  - Richard B Biritwum
+  - Andrew A Adjei
+  - Evelyn Tay
+  - Ann Truelove
+  - Shelley Niwa
+  - Kosj Yamoah
+  - Koveela Govindasami
+  - Anand P Chokkalingam
+  - Jacob M Keaton
+  - Jacklyn N Hellwege
+  - Peter E Clark
+  - Mohamed Jalloh
+  - Serigne M Gueye
+  - Lamine Niang
+  - Olufemi Ogunbiyi
+  - Olayiwola Shittu
+  - Olukemi Amodu
+  - Akindele O Adebiyi
+  - Oseremen I Aisuodionoe-Shadrach
+  - Hafees O Ajibola
+  - Mustapha A Jamda
+  - Olabode P Oluwole
+  - Maxwell Nwegbu
+  - Ben Adusei
+  - Sunny Mante
+  - Afua Darkwa-Abrahams
+  - Halimatou Diop
+  - Susan M Gundell
+  - Monique J Roobol
+  - Guido Jenster
+  - Ron H N van Schaik
+  - Jennifer J Hu
+  - Maureen Sanderson
+  - Linda Kachuri
+  - Rohit Varma
+  - Roberta McKean-Cowdin
+  - Mina Torres
+  - Michael H Preuss
+  - Ruth J F Loos
+  - Matthew Zawistowski
+  - "Sebastian Z\xF6llner"
+  - Zeyun Lu
+  - Stephen K Van Den Eeden
+  - Douglas F Easton
+  - Stefan Ambs
+  - Todd L Edwards
+  - "Reedik M\xE4gi"
+  - Timothy R Rebbeck
+  - Lars Fritsche
+  - Stephen J Chanock
+  - Sonja I Berndt
+  - Fredrik Wiklund
+  - Hidewaki Nakagawa
+  - John S Witte
+  - J Michael Gaziano
+  - Amy C Justice
+  - Nick Mancuso
+  - Chikashi Terao
+  - Rosalind A Eeles
+  - Zsofia Kote-Jarai
+  - Ravi K Madduri
+  - David V Conti
+  - Christopher A Haiman
+  publisher: Nature genetics
+  date: '2023-11-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37945903
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35181273
+  title: Redefining precision cancer prevention to promote health equity.
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Asad Umar
+  - Brandy M Heckman-Stoddard
+  - Kathryn A Kundrod
+  - Lisa B Signorello
+  - Philip E Castle
+  publisher: Trends in cancer
+  date: '2022-02-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35181273
+  term: Butler, EN[Author]
+  plugin: sources.py
+  file: sources.yaml
+  image: images/citations/CellPress.png
+- id: pubmed:33092896
+  title: 'An Up-to-date Assessment of US Prostate Cancer Incidence Rates by Stage
+    and Race: A Novel Approach Combining Multiple Imputation with Age and Delay Adjustment.'
+  authors:
+  - Michael B Cook
+  - Lauren M Hurwitz
+  - Ashley M Geczik
+  - "Ebone\xE9 N Butler"
+  publisher: European urology
+  date: '2020-10-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33092896
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32839916
+  title: Racial and ethnic differences in risk of second primary cancers among prostate
+    cancer survivors.
+  authors:
+  - Diana R Withrow
+  - Sara J Schonfeld
+  - Rochelle E Curtis
+  - Lindsay M Morton
+  - Michael B Cook
+  - "Ebone\xE9 N Butler"
+  - "Amy Berrington de Gonz\xE1lez"
+  publisher: 'Cancer causes & control : CCC'
+  date: '2020-08-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32839916
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32825565
+  title: 'The Prototypes of Tobacco Users Scale (POTUS) for Cigarette Smoking and
+    E-Cigarette Use: Development and Validation.'
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Marissa G Hall
+  - May S Chen
+  - Jessica K Pepper
+  - Hart Blanton
+  - Noel T Brewer
+  publisher: International journal of environmental research and public health
+  date: '2020-08-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32825565
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32433602
+  title: Fatal prostate cancer incidence trends in the United States and England by
+    race, stage, and treatment.
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Scott P Kelly
+  - Victoria H Coupland
+  - Philip S Rosenberg
+  - Michael B Cook
+  publisher: British journal of cancer
+  date: '2020-05-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32433602
+  term: Butler, EN[Author]
+  plugin: sources.py
+  file: sources.yaml
+  image: images/citations/Butler_BJC.jpg
+- id: pubmed:32350862
+  title: 'Overall and abdominal obesity and prostate cancer risk in a West African
+    population: An analysis of the Ghana Prostate Study.'
+  authors:
+  - Lauren M Hurwitz
+  - Edward D Yeboah
+  - Richard B Biritwum
+  - Yao Tettey
+  - Andrew A Adjei
+  - James E Mensah
+  - Evelyn Tay
+  - Vicky Okyne
+  - Ann Truelove
+  - Scott P Kelly
+  - Cindy Ke Zhou
+  - "Ebone\xE9 N Butler"
+  - Robert N Hoover
+  - Ann W Hsing
+  - Michael B Cook
+  publisher: International journal of cancer
+  date: '2020-05-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32350862
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32197930
+  title: 'Involving patients and their families in deciding to use next generation
+    sequencing: Results from a nationally representative survey of U.S. oncologists.'
+  authors:
+  - Lisa P Spees
+  - Megan C Roberts
+  - Andrew N Freedman
+  - "Ebone\xE9 N Butler"
+  - William M P Klein
+  - Irene Prabhu Das
+  - Janet S de Moor
+  publisher: Patient education and counseling
+  date: '2020-03-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32197930
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30182055
+  title: Image analysis with deep learning to predict breast cancer grade, ER status,
+    histologic subtype, and intrinsic subtype.
+  authors:
+  - Heather D Couture
+  - Lindsay A Williams
+  - Joseph Geradts
+  - Sarah J Nyante
+  - Ebonee N Butler
+  - J S Marron
+  - Charles M Perou
+  - Melissa A Troester
+  - Marc Niethammer
+  publisher: NPJ breast cancer
+  date: '2018-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30182055
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29951581
+  title: TP53 protein levels, RNA-based pathway assessment, and race among invasive
+    breast cancer cases.
+  authors:
+  - Lindsay A Williams
+  - Ebonee N Butler
+  - Xuezheng Sun
+  - Emma H Allott
+  - Stephanie M Cohen
+  - Ashley M Fuller
+  - Katherine A Hoadley
+  - Charles M Perou
+  - Joseph Geradts
+  - Andrew F Olshan
+  - Melissa A Troester
+  publisher: NPJ breast cancer
+  date: '2018-06-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29951581
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29133365
+  title: Prediagnostic Smoking Is Associated with Binary and Quantitative Measures
+    of ER Protein and
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Jeannette T Bensen
+  - Mengjie Chen
+  - Kathleen Conway
+  - David B Richardson
+  - Xuezheng Sun
+  - Joseph Geradts
+  - Andrew F Olshan
+  - Melissa A Troester
+  publisher: 'Cancer epidemiology, biomarkers & prevention : a publication of the
+    American Association for Cancer Research, cosponsored by the American Society
+    of Preventive Oncology'
+  date: '2017-11-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29133365
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27999280
+  title: 'Recruiting Diverse Smokers: Enrollment Yields and Cost.'
+  authors:
+  - Kaitlyn E Brodar
+  - Marissa G Hall
+  - "Ebone\xE9 N Butler"
+  - Humberto Parada
+  - Al Stein-Seroussi
+  - Sean Hanley
+  - Noel T Brewer
+  publisher: International journal of environmental research and public health
+  date: '2016-12-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27999280
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27153846
+  title: Active smoking and risk of Luminal and Basal-like breast cancer subtypes
+    in the Carolina Breast Cancer Study.
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Chiu-Kit Tse
+  - Mary Elizabeth Bell
+  - Kathleen Conway
+  - Andrew F Olshan
+  - Melissa A Troester
+  publisher: 'Cancer causes & control : CCC'
+  date: '2016-05-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27153846
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25534387
+  title: Receipt of chemotherapy among medicare patients with cancer by type of supplemental
+    insurance.
+  authors:
+  - Joan L Warren
+  - "Ebone\xE9 N Butler"
+  - Jennifer Stevens
+  - Christopher S Lathan
+  - Anne-Michelle Noone
+  - Kevin C Ward
+  - Linda C Harlan
+  publisher: 'Journal of clinical oncology : official journal of the American Society
+    of Clinical Oncology'
+  date: '2014-12-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25534387
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25068393
+  title: Prevalence of physical activity and sedentary behavior among adults with
+    cardiovascular disease in the United States.
+  authors:
+  - Kelly R Evenson
+  - "Ebone\xE9 N Butler"
+  - Wayne D Rosamond
+  publisher: Journal of cardiopulmonary rehabilitation and prevention
+  date: '2014-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25068393
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24985392
+  title: Prevalence of physical activity and sedentary behavior among stroke survivors
+    in the United States.
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Kelly R Evenson
+  publisher: Topics in stroke rehabilitation
+  date: '2014-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24985392
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24355678
+  title: 'Dietary assessment in food environment research: a systematic review.'
+  authors:
+  - Sharon I Kirkpatrick
+  - Jill Reedy
+  - "Ebone\xE9 N Butler"
+  - Kevin W Dodd
+  - Amy F Subar
+  - Frances E Thompson
+  - Robin A McKinnon
+  publisher: American journal of preventive medicine
+  date: '2014-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24355678
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23962509
+  title: Patterns of colorectal cancer care in Europe, Australia, and New Zealand.
+  authors:
+  - Neetu Chawla
+  - "Ebone\xE9 N Butler"
+  - Jennifer Lund
+  - Joan L Warren
+  - Linda C Harlan
+  - K Robin Yabroff
+  publisher: Journal of the National Cancer Institute. Monographs
+  date: '2013-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23962509
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23962508
+  title: 'Patterns of colorectal cancer care in the United States and Canada: a systematic
+    review.'
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Neetu Chawla
+  - Jennifer Lund
+  - Linda C Harlan
+  - Joan L Warren
+  - K Robin Yabroff
+  publisher: Journal of the National Cancer Institute. Monographs
+  date: '2013-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23962508
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21350268
+  title: Identifying GIS measures of the physical activity built environment through
+    a review of the literature.
+  authors:
+  - Ebonee N Butler
+  - A M H Ambs
+  - Jill Reedy
+  - Heather R Bowles
+  publisher: Journal of physical activity & health
+  date: '2011-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21350268
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20336785
+  title: 'Age/race differences in HER2 testing and in incidence rates for breast cancer
+    triple subtypes: a population-based study and first report.'
+  authors:
+  - Mary Jo Lund
+  - Ebonee N Butler
+  - Brionna Y Hair
+  - Kevin C Ward
+  - Judy H Andrews
+  - Gabriella Oprea-Ilies
+  - A Rana Bayakly
+  - Ruth M O'Regan
+  - Paula M Vertino
+  - J William Eley
+  publisher: Cancer
+  date: '2010-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20336785
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19745214
+  title: Cross-reactive antibody responses to the 2009 pandemic H1N1 influenza virus.
+  authors:
+  - Kathy Hancock
+  - Vic Veguilla
+  - Xiuhua Lu
+  - Weimin Zhong
+  - "Ebone\xE9 N Butler"
+  - Hong Sun
+  - Feng Liu
+  - Libo Dong
+  - Joshua R DeVos
+  - Paul M Gargiullo
+  - T Lynnette Brammer
+  - Nancy J Cox
+  - Terrence M Tumpey
+  - Jacqueline M Katz
+  publisher: The New England journal of medicine
+  date: '2009-09-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19745214
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18722473
+  title: Establishment of retroviral pseudotypes with influenza hemagglutinins from
+    H1, H3, and H5 subtypes for sensitive and specific detection of neutralizing antibodies.
+  authors:
+  - Wei Wang
+  - "Ebone\xE9 N Butler"
+  - Vic Veguilla
+  - Russell Vassell
+  - J Terrig Thomas
+  - Malcolm Moos
+  - Zhiping Ye
+  - Kathy Hancock
+  - Carol D Weiss
+  publisher: Journal of virological methods
+  date: '2008-09-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18722473
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18625765
+  title: Surveillance for neuraminidase inhibitor resistance among human influenza
+    A and B viruses circulating worldwide from 2004 to 2008.
+  authors:
+  - Tiffany G Sheu
+  - Varough M Deyde
+  - Margaret Okomo-Adhiambo
+  - Rebecca J Garten
+  - Xiyan Xu
+  - Rick A Bright
+  - "Ebone\xE9 N Butler"
+  - Teresa R Wallis
+  - Alexander I Klimov
+  - Larisa V Gubareva
+  publisher: Antimicrobial agents and chemotherapy
+  date: '2008-07-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18625765
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18484596
+  title: High prevalence of triple-negative tumors in an urban cancer center.
+  authors:
+  - Mary Jo B Lund
+  - Ebonee N Butler
+  - Harvey L Bumpers
+  - Joel Okoli
+  - Monica Rizzo
+  - Nadjo Hatchett
+  - Victoria L Green
+  - Otis W Brawley
+  - Gabriela M Oprea-Ilies
+  - Sheryl G A Gabram
+  publisher: Cancer
+  date: '2008-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18484596
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: doi:10.1158/1055-9965.EPI-24-0166
+  title: Chronic Health Conditions, Disability, and Physical and Cognitive Limitations
+    among LGBTQ+ Cancer Survivors
+  authors:
+  - Austin R. Waters
+  - Mu Jin
+  - Shaun R. Jones
+  - Geetanjali D. Datta
+  - "Ebone\xE9 N. Butler"
+  - Erin E. Kent
+  - Hazel B. Nichols
+  - Kelly Tan
+  publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
+  date: '2024-06-25'
+  link: https://doi.org/gt7b23
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.whi.2023.10.005
+  title: 'Individual and Neighborhood-level Socioeconomic Status and Somatic Mutations
+    Associated With Increased Risk of Cardiovascular Disease and Mortality: A Cross-Sectional
+    Analysis in the Women''s Health Initiative'
+  authors:
+  - Shelly-Ann M. Love
+  - Jason M. Collins
+  - Kurtis M. Anthony
+  - Sophie F. Buchheit
+  - "Ebone\xE9 N. Butler"
+  - Ganga S. Bey
+  - Rahul Gondalia
+  - Kathleen M. Hayden
+  - Anthony S. Zannas
+  - Alexander G. Bick
+  - JoAnn E. Manson
+  - Pinkal M. Desai
+  - Pradeep Natarajan
+  - Romit Bhattacharya
+  - Siddhartha Jaiswal
+  - Ana Barac
+  - Alex Reiner
+  - Charles Kooperberg
+  - James D. Stewart
+  - Eric A. Whitsel
+  publisher: Women's Health Issues
+  date: '2024-03-01'
+  link: https://doi.org/gt7b24
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jncics/pkad025
+  title: Breast exam use during the protracted COVID-19 pandemic, by age, race, and
+    geography
+  authors:
+  - "Ebone\xE9 N Butler"
+  - Thad Benefield
+  - Louise Henderson
+  - Cherie Kuzmiak
+  - Michael Pritchard
+  - Sarah Nyante
+  publisher: JNCI Cancer Spectrum
+  date: '2023-03-01'
+  link: https://doi.org/gt7b25
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41416-022-02019-7
+  title: "Testosterone therapy and cancer risks among men in the SEER-Medicare\_linked\
+    \ database"
+  authors:
+  - "Ebone\xE9 N. Butler"
+  - Cindy Ke Zhou
+  - Michael Curry
+  - "\xDAna McMenamin"
+  - Christopher Cardwell
+  - Marie C. Bradley
+  - Barry I. Graubard
+  - Michael B. Cook
+  publisher: British Journal of Cancer
+  date: '2022-10-28'
+  link: https://doi.org/gt7b26
+  orcid: 0000-0002-4638-1190
+  plugin: sources.py
+  file: sources.yaml
+  image: images/citations/BJC.png
+- id: doi:10.1093/jncics/pkac028
+  title: "Mammographic Density Decline, Tamoxifen Response, and Prognosis by Molecular\
+    \ Characteristics of Estrogen Receptor\u2013Positive Breast Cancer"
+  authors:
+  - Mustapha Abubakar
+  - Maeve Mullooly
+  - Sarah Nyante
+  - Ruth M Pfeiffer
+  - Erin J Aiello Bowles
+  - Renata Cora
+  - Clara Bodelon
+  - "Ebone\xE9 Butler"
+  - Donna Butcher
+  - Lawrence Sternberg
+  - Melissa A Troester
+  - Sheila Weinmann
+  - Mark Sherman
+  - Andrew G Glass
+  - Amy Berrington de Gonzalez
+  - Gretchen L Gierach
+  publisher: JNCI Cancer Spectrum
+  date: '2022-03-30'
+  link: https://doi.org/gt7b27
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1200/PO.20.00431
+  title: 'Oncologist-Reported Reasons for Not Ordering Multimarker Tumor Panels: Results
+    From a Nationally Representative Survey'
+  authors:
+  - Megan C. Roberts
+  - Lisa P. Spees
+  - Andrew N. Freedman
+  - William M. P. Klein
+  - Irene Prabhu Das
+  - "Ebone\xE9 N. Butler"
+  - Janet S. de Moor
+  publisher: JCO Precision Oncology
+  date: '2021-11-01'
+  link: https://doi.org/gqkf5d
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml

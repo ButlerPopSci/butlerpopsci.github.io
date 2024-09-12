@@ -1,0 +1,38 @@
+# Manually providing additional details for highlighted papers
+- id: pubmed:32433602
+  image: "images/citations/Butler_BJC.jpg"
+
+- id: doi:10.1038/s41416-022-02019-7
+  image: "images/citations/BJC.png"
+
+- id: pubmed:35181273
+  image: "images/citations/CellPress.png"
+
+# Manual removal of pubmed false positives
+- id: pubmed:19992291
+  remove: true
+- id: pubmed:13806477
+  remove: true
+- id: pubmed:14630660
+  remove: true
+- id: pubmed:13689428
+  remove: true
+- id: pubmed:6839844
+  remove: true
+- id: pubmed:6614640
+  remove: true
+- id: pubmed:4008430
+  remove: true
+- id: pubmed:9986218
+  remove: true
+# Manual Removal of pubmed citations that repeat the ORCID imported papers
+- id: pubmed:36951539
+  remove: true
+- id: pubmed:38898557
+  remove: true
+- id: pubmed:34250411
+  remove: true
+- id: pubmed:36307648
+  remove: true
+- id: pubmed:38061917
+  remove: true

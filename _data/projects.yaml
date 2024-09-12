@@ -1,0 +1,19 @@
+- title: The North Carolina-Louisiana Prostate Cancer Project
+  subtitle: PCaP
+  group:
+  image: images/projects/PCaP_logo.png
+  link: https://pcap.bioinf.unc.edu/
+  description: We conduct research in PCaP baseline and followup study data, examining risk factors that may explain the differences observed in prostate cancer risk, severity and progression between Black and White men in the southern United States.
+  repo:
+  tags:
+
+
+- title: The Surveillance, Epidemiology, and End Results (SEER) Program
+  subtitle: SEER
+  group:
+  image: images/projects/seer-logo.png
+  link: https://seer.cancer.gov/
+  description: Our current studies also utilize specialized SEER data to examine cancer incidence, survival, and mortality in the United States
+  repo:
+  tags:
+
