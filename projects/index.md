@@ -10,7 +10,7 @@ nav:
 
 {% include section.html %}
 {:.center}
-Our research group are involved in a number of projects across a range of studies and data sources.
+<Page in Progress, please visit us again soon for updates!>
 
 {% include list.html component="card" data="projects" filters="group: " %}
 {% include list.html component="card" data="projects" filters="group: featured" %}
