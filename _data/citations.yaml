@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39269980
+  title: Associations of prostate tumor immune landscape with vigorous physical activity
+    and prostate cancer progression.
+  authors:
+  - Lanshan Huang
+  - Sarah J Winter
+  - Linnea T Olsson
+  - Alina M Hamilton
+  - Sophia R Halliday
+  - Erin L Kirk
+  - Laura Farnan
+  - Adrian Gerstel
+  - Stephanie G Craig
+  - Stephen P Finn
+  - Melissa LaBonte Wilson
+  - Suneil Jain
+  - Melissa A Troester
+  - "Ebone\xE9 N Butler"
+  - Jeannette T Bensen
+  - Sara E Wobker
+  - Emma H Allott
+  publisher: 'Cancer epidemiology, biomarkers & prevention : a publication of the
+    American Association for Cancer Research, cosponsored by the American Society
+    of Preventive Oncology'
+  date: '2024-09-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39269980
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39013134
   title: Differences in 21-Gene and PAM50 Recurrence Scores in Younger and Black Women
     With Breast Cancer.
