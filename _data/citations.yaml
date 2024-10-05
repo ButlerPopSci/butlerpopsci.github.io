@@ -180,49 +180,6 @@
   term: Butler, EN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:38217760
-  title: 'Understanding mechanisms of racial disparities in breast cancer: an assessment
-    of screening and regular care in the Carolina Breast Cancer Study.'
-  authors:
-  - Matthew R Dunn
-  - Eman M Metwally
-  - Sanah Vohra
-  - Terry Hyslop
-  - Louise M Henderson
-  - Katherine Reeder-Hayes
-  - Caroline A Thompson
-  - Jennifer Elston Lafata
-  - Melissa A Troester
-  - "Ebone\xE9 N Butler"
-  publisher: 'Cancer causes & control : CCC'
-  date: '2024-01-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38217760
-  term: Butler, EN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:38017150
-  title: Linking African ancestral substructure to prostate cancer health disparities.
-  authors:
-  - Kazzem Gheybi
-  - Naledi Mmekwa
-  - Maphuti Tebogo Lebelo
-  - Sean M Patrick
-  - Raymond Campbell
-  - Mukudeni Nenzhelele
-  - Pamela X Y Soh
-  - Muvhulawa Obida
-  - Massimo Loda
-  - Joyce Shirindi
-  - "Ebone\xE9 N Butler"
-  - Shingai B A Mutambirwa
-  - M S Riana Bornman
-  - Vanessa M Hayes
-  publisher: Scientific reports
-  date: '2023-11-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38017150
-  term: Butler, EN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:37945903
   title: Characterizing prostate cancer risk through multi-ancestry genome-wide discovery
     of 187 novel risk variants.
@@ -628,23 +585,6 @@
   term: Butler, EN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:32197930
-  title: 'Involving patients and their families in deciding to use next generation
-    sequencing: Results from a nationally representative survey of U.S. oncologists.'
-  authors:
-  - Lisa P Spees
-  - Megan C Roberts
-  - Andrew N Freedman
-  - "Ebone\xE9 N Butler"
-  - William M P Klein
-  - Irene Prabhu Das
-  - Janet S de Moor
-  publisher: Patient education and counseling
-  date: '2020-03-03'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32197930
-  term: Butler, EN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:30182055
   title: Image analysis with deep learning to predict breast cancer grade, ER status,
     histologic subtype, and intrinsic subtype.
@@ -661,27 +601,6 @@
   publisher: NPJ breast cancer
   date: '2018-09-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30182055
-  term: Butler, EN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:29951581
-  title: TP53 protein levels, RNA-based pathway assessment, and race among invasive
-    breast cancer cases.
-  authors:
-  - Lindsay A Williams
-  - Ebonee N Butler
-  - Xuezheng Sun
-  - Emma H Allott
-  - Stephanie M Cohen
-  - Ashley M Fuller
-  - Katherine A Hoadley
-  - Charles M Perou
-  - Joseph Geradts
-  - Andrew F Olshan
-  - Melissa A Troester
-  publisher: NPJ breast cancer
-  date: '2018-06-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29951581
   term: Butler, EN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -862,29 +781,6 @@
   term: Butler, EN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:19745214
-  title: Cross-reactive antibody responses to the 2009 pandemic H1N1 influenza virus.
-  authors:
-  - Kathy Hancock
-  - Vic Veguilla
-  - Xiuhua Lu
-  - Weimin Zhong
-  - "Ebone\xE9 N Butler"
-  - Hong Sun
-  - Feng Liu
-  - Libo Dong
-  - Joshua R DeVos
-  - Paul M Gargiullo
-  - T Lynnette Brammer
-  - Nancy J Cox
-  - Terrence M Tumpey
-  - Jacqueline M Katz
-  publisher: The New England journal of medicine
-  date: '2009-09-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/19745214
-  term: Butler, EN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:18722473
   title: Establishment of retroviral pseudotypes with influenza hemagglutinins from
     H1, H3, and H5 subtypes for sensitive and specific detection of neutralizing antibodies.
@@ -901,26 +797,6 @@
   publisher: Journal of virological methods
   date: '2008-09-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18722473
-  term: Butler, EN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:18625765
-  title: Surveillance for neuraminidase inhibitor resistance among human influenza
-    A and B viruses circulating worldwide from 2004 to 2008.
-  authors:
-  - Tiffany G Sheu
-  - Varough M Deyde
-  - Margaret Okomo-Adhiambo
-  - Rebecca J Garten
-  - Xiyan Xu
-  - Rick A Bright
-  - "Ebone\xE9 N Butler"
-  - Teresa R Wallis
-  - Alexander I Klimov
-  - Larisa V Gubareva
-  publisher: Antimicrobial agents and chemotherapy
-  date: '2008-07-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/18625765
   term: Butler, EN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
