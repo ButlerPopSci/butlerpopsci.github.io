@@ -36,3 +36,13 @@
   remove: true
 - id: pubmed:38061917
   remove: true
+
+# Manual removal of doi false positives
+- id: doi:10.1158/1055-9965.27435804
+  remove: true
+- id: doi:10.1158/1055-9965.27435801
+  remove: true
+- id: doi:10.1158/1055-9965.27435795
+  remove: true
+- id: doi:10.1158/1055-9965.27435792
+  remove: true
