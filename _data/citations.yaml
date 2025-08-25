@@ -1,8 +1,348 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40832405
+  title: Multi-Ancestry Transcriptome-wide Association Studies Uncover New Insights
+    into Breast Cancer Genetics and Biology.
+  authors:
+  - Jie Ping
+  - Guochong Jia
+  - Qiuyin Cai
+  - Xingyi Guo
+  - Jifeng Wang
+  - Ran Tao
+  - Bingshan Li
+  - Joshua A Bauer
+  - Yuhan Xie
+  - Stefan Ambs
+  - Mollie E Barnard
+  - Yu Chen
+  - Ji-Yeob Choi
+  - Yu-Tang Gao
+  - Montserrat Garcia-Closas
+  - Jian Gu
+  - Jennifer J Hu
+  - Motoki Iwasaki
+  - Esther M John
+  - Sun-Seog Kweon
+  - Christopher I Li
+  - Koichi Matsuda
+  - Keitaro Matsuo
+  - Katherine L Nathanson
+  - Barbara Nemesure
+  - Olufunmilayo I Olopade
+  - Tuya Pal
+  - Sue K Park
+  - Boyoung Park
+  - Michael F Press
+  - Maureen Sanderson
+  - Dale P Sandler
+  - Song Yao
+  - Ying Zheng
+  - Thomas Ahearn
+  - Abenaa M Brewster
+  - Adeyinka Falusi
+  - Anselm J M Hennis
+  - Hidemi Ito
+  - Michiaki Kubo
+  - Eun-Sook Lee
+  - Timothy Makumbi
+  - Berthe S E Mapoko
+  - Dong-Young Noh
+  - Katie M O'Brien
+  - Oladosu Ojengbede
+  - Andrew F Olshan
+  - Min-Ho Park
+  - Sonya Reid
+  - Taiki Yamaji
+  - Gary Zirpoli
+  - Ebonee N Butler
+  - Maosheng Huang
+  - Siew-Kee Low
+  - John Obafunwa
+  - Clarice R Weinberg
+  - Haoyu Zhang
+  - Hongyu Zhao
+  - Christine B Ambrosone
+  - Michelle L Cote
+  - Dezheng Huo
+  - Christopher A Haiman
+  - Daehee Kang
+  - Julie R Palmer
+  - Melissa A Troester
+  - Xiao-Ou Shu
+  - Jirong Long
+  - Wei Zheng
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2025-08-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40832405
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40658085
+  title: Integrating multi-ancestry genomic and proteomic data to identify blood risk
+    biomarkers and target proteins for breast cancer genetic risk loci.
+  authors:
+  - Guochong Jia
+  - Jie Ping
+  - Ran Tao
+  - Jirong Long
+  - Lili Liu
+  - Shuai Xu
+  - Heather M Munro
+  - Stefan Ambs
+  - Mollie E Barnard
+  - Yu Chen
+  - Ji-Yeob Choi
+  - Yu-Tang Gao
+  - Montserrat Garcia-Closas
+  - Jian Gu
+  - Jennifer J Hu
+  - Motoki Iwasaki
+  - Esther M John
+  - Sun-Seog Kweon
+  - Koichi Matsuda
+  - Keitaro Matsuo
+  - Katherine Nathanson
+  - Barbara Nemesure
+  - Olufunmilayo I Olopade
+  - Tuya Pal
+  - Sue K Park
+  - Boyoung Park
+  - Michael F Press
+  - Maureen Sanderson
+  - Dale P Sandler
+  - Song Yao
+  - Ying Zheng
+  - Prisca O Adejumo
+  - Thomas Ahearn
+  - Abenaa M Brewster
+  - Anselm J M Hennis
+  - Hidemi Ito
+  - Michiaki Kubo
+  - Eun-Sook Lee
+  - Siew-Kee Low
+  - Timothy Makumbi
+  - Paul Ndom
+  - Dong-Young Noh
+  - Katie M O'Brien
+  - Andrew F Olshan
+  - Mojisola M Oluwasanu
+  - Min-Ho Park
+  - Sonya Reid
+  - Taiki Yamaji
+  - Gary Zirpoli
+  - Ebonee N Butler
+  - Maosheng Huang
+  - Atara Ntekim
+  - Clarice R Weinberg
+  - Bingshan Li
+  - Dezheng Huo
+  - Daehee Kang
+  - Christine Ambrosone
+  - Melissa A Troester
+  - Christopher A Haiman
+  - Xiao-Ou Shu
+  - Julie R Palmer
+  - Xingyi Guo
+  - Wei Zheng
+  publisher: International journal of cancer
+  date: '2025-07-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40658085
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40627176
+  title: The African-specific variant in the Duffy Antigen Receptor for Chemokines
+    (DARC) gene, CD8+ T-cell density and Aggressive Breast Cancer Subtypes in Black
+    Women.
+  authors:
+  - Nisha M Nair
+  - Lucas Mendicino
+  - Peter N Fiorica
+  - Angela R Omilian
+  - Thaer Khoury
+  - Wiam Bshara
+  - Elisa V Bandera
+  - Chi-Chen Hong
+  - Yara Abdou
+  - Jo L Freudenheim
+  - Anselm J M Hennis
+  - Katie M O'Brien
+  - Gary R Zirpoli
+  - Ebonee N Butler
+  - John Oladapo Obafunwa
+  - Clarice R Weinberg
+  - Dezheng Huo
+  - Bingshan Li
+  - Xingyi Guo
+  - Julie R Palmer
+  - Christopher A Haiman
+  - Wei Zheng
+  - Song Yao
+  - Christine B Ambrosone
+  publisher: 'Cancer epidemiology, biomarkers & prevention : a publication of the
+    American Association for Cancer Research, cosponsored by the American Society
+    of Preventive Oncology'
+  date: '2025-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40627176
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40055257
+  title: Unmet needs among long-term breast cancer survivors.
+  authors:
+  - Rina A Yarosh
+  - Hazel B Nichols
+  - Rachel Hirschey
+  - Erin E Kent
+  - Deborah K Mayer
+  - Melissa A Troester
+  - "Ebone\xE9 N Butler"
+  publisher: 'Cancer causes & control : CCC'
+  date: '2025-03-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40055257
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39879109
+  title: Genomic Analysis Reveals Racial and Age-Related Differences in the Somatic
+    Landscape of Breast Cancer and the Association with Socioeconomic Factors.
+  authors:
+  - Sarah C Van Alsten
+  - Michael I Love
+  - Benjamin C Calhoun
+  - "Ebone\xE9 N Butler"
+  - Charles M Perou
+  - Katherine A Hoadley
+  - Melissa A Troester
+  publisher: Cancer research
+  date: '2025-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39879109
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39753771
+  title: Refining breast cancer genetic risk and biology through multi-ancestry fine-mapping
+    analyses of 192 risk regions.
+  authors:
+  - Guochong Jia
+  - Zhishan Chen
+  - Jie Ping
+  - Qiuyin Cai
+  - Ran Tao
+  - Chao Li
+  - Joshua A Bauer
+  - Yuhan Xie
+  - Stefan Ambs
+  - Mollie E Barnard
+  - Yu Chen
+  - Ji-Yeob Choi
+  - Yu-Tang Gao
+  - Montserrat Garcia-Closas
+  - Jian Gu
+  - Jennifer J Hu
+  - Motoki Iwasaki
+  - Esther M John
+  - Sun-Seog Kweon
+  - Christopher I Li
+  - Koichi Matsuda
+  - Keitaro Matsuo
+  - Katherine L Nathanson
+  - Barbara Nemesure
+  - Olufunmilayo I Olopade
+  - Tuya Pal
+  - Sue K Park
+  - Boyoung Park
+  - Michael F Press
+  - Maureen Sanderson
+  - Dale P Sandler
+  - Chen-Yang Shen
+  - Melissa A Troester
+  - Song Yao
+  - Ying Zheng
+  - Thomas Ahearn
+  - Abenaa M Brewster
+  - Adeyinka Falusi
+  - Anselm J M Hennis
+  - Hidemi Ito
+  - Michiaki Kubo
+  - Eun-Sook Lee
+  - Timothy Makumbi
+  - Paul Ndom
+  - Dong-Young Noh
+  - Katie M O'Brien
+  - Oladosu Ojengbede
+  - Andrew F Olshan
+  - Min-Ho Park
+  - Sonya Reid
+  - Taiki Yamaji
+  - Gary Zirpoli
+  - Ebonee N Butler
+  - Maosheng Huang
+  - Siew-Kee Low
+  - John Obafunwa
+  - Clarice R Weinberg
+  - Haoyu Zhang
+  - Hongyu Zhao
+  - Michelle L Cote
+  - Christine B Ambrosone
+  - Dezheng Huo
+  - Bingshan Li
+  - Daehee Kang
+  - Julie R Palmer
+  - Xiao-Ou Shu
+  - Christopher A Haiman
+  - Xingyi Guo
+  - Jirong Long
+  - Wei Zheng
+  publisher: Nature genetics
+  date: '2025-01-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39753771
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39693108
+  title: Evaluating the intersection of climate vulnerability and cancer burden in
+    North Carolina.
+  authors:
+  - Joyce Pak
+  - Ngan Le
+  - Eman M Metwally
+  - Jeanny Wang
+  - Arrianna Marie Planey
+  - Amy M Lowman
+  - Bradford E Jackson
+  - "Ebone\xE9 N Butler"
+  - Jennifer L Lund
+  publisher: JNCI cancer spectrum
+  date: '2025-01-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39693108
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39550629
+  title: "Patient-reported persistent lymphedema and peripheral neuropathy among long-term\
+    \ breast cancer survivors in the\_Carolina Breast Cancer Study."
+  authors:
+  - Rina A Yarosh
+  - Hazel B Nichols
+  - Qichen Wang
+  - Rachel Hirschey
+  - Erin E Kent
+  - Lisa A Carey
+  - Sandra C Hayes
+  - Adeyemi A Ogunleye
+  - Melissa A Troester
+  - "Ebone\xE9 N Butler"
+  publisher: Cancer
+  date: '2024-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39550629
+  term: Butler, EN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39269980
-  title: Associations of prostate tumor immune landscape with vigorous physical activity
-    and prostate cancer progression.
+  title: Associations of Prostate Tumor Immune Landscape with Vigorous Physical Activity
+    and Prostate Cancer Progression.
   authors:
   - Lanshan Huang
   - Sarah J Winter
@@ -24,7 +364,7 @@
   publisher: 'Cancer epidemiology, biomarkers & prevention : a publication of the
     American Association for Cancer Research, cosponsored by the American Society
     of Preventive Oncology'
-  date: '2024-09-13'
+  date: '2024-12-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39269980
   term: Butler, EN[Author]
   plugin: pubmed.py
@@ -943,6 +1283,258 @@
   term: Butler, EN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: doi:10.1158/0008-5472.c.7751939
+  title: Data from Genomic Analysis Reveals Racial and Age-Related Differences in
+    the Somatic Landscape of Breast Cancer and the Association with Socioeconomic
+    Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkxz
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-24-1788
+  title: Genomic Analysis Reveals Racial and Age-Related Differences in the Somatic
+    Landscape of Breast Cancer and the Association with Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: Cancer Research
+  date: '2025-01-29'
+  link: https://doi.org/g83t2c
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721789
+  title: Supplementary Figure 1 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx2
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721786
+  title: Supplementary Figure 2 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx3
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721780
+  title: Supplementary Figure 3 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx4
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721777
+  title: Supplementary Figure 4 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx5
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721771
+  title: Supplementary Table 1 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx6
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721768
+  title: Supplementary Table 2 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx7
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721765
+  title: Supplementary Table 3 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx8
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721762
+  title: Supplementary Table 4 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkx9
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721759
+  title: Supplementary Table 5 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkzb
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721756
+  title: Supplementary Table 6 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkzc
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.28721753
+  title: Supplementary Table 7 from Genomic Analysis Reveals Racial and Age-Related
+    Differences in the Somatic Landscape of Breast Cancer and the Association with
+    Socioeconomic Factors
+  authors:
+  - Sarah C. Van Alsten
+  - Michael I. Love
+  - Benjamin C. Calhoun
+  - "Ebone\xE9 N. Butler"
+  - Charles M. Perou
+  - Katherine A. Hoadley
+  - Melissa A. Troester
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-04-03'
+  link: https://doi.org/g9dkzd
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jncics/pkae124
+  title: Evaluating the intersection of climate vulnerability and cancer burden in
+    North Carolina
+  authors:
+  - Joyce Pak
+  - Ngan Le
+  - Eman M Metwally
+  - Jeanny Wang
+  - Arrianna Marie Planey
+  - Amy M Lowman
+  - Bradford E Jackson
+  - "Ebone\xE9 N Butler"
+  - Jennifer L Lund
+  publisher: JNCI Cancer Spectrum
+  date: '2024-12-18'
+  link: https://doi.org/g8wpqq
+  orcid: 0000-0002-4638-1190
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1055-9965.EPI-24-0166
   title: Chronic Health Conditions, Disability, and Physical and Cognitive Limitations
     among LGBTQ+ Cancer Survivors
